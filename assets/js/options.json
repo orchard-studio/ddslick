@@ -1,0 +1,18 @@
+[{
+	"text": "Cluster 1",
+	"selected": false,
+	"description": "orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus",
+	"imageSrc": "cluster-1.png"
+},
+{
+	"text": "Cluster 2",
+	"selected": false,
+	"description": "magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient",
+	"imageSrc": "cluster-1.png"
+},
+{
+	"text": "Cluster 3",
+	"selected": true,
+	"description": "vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor",
+	"imageSrc": "cluster-1.png"
+}]
